@@ -1,2 +1,4 @@
 Add ColorConvertOp to Dye Gray-Layer
 Add Config
+Add Output-Size config
+Fix bad scaling
