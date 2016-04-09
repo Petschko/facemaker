@@ -1,9 +1,11 @@
-package in.eona.petschko.facegen;
+package org.petschko.facegen;
 
-import in.eona.petschko.facegen.classes.*;
+import org.petschko.facegen.classes.FileOperations;
+import org.petschko.facegen.classes.GUI;
+import org.petschko.facegen.classes.ImageConstruct;
+import org.petschko.facegen.classes.UserPrefs;
 
 import javax.swing.JDialog;
-import javax.swing.JLabel;
 
 /**
  * @autor: Petschko [peter-91@hotmail.de]

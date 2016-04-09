@@ -1,4 +1,4 @@
-package in.eona.petschko.facegen.classes;
+package org.petschko.facegen.classes;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;

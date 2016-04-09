@@ -1,4 +1,4 @@
-package in.eona.petschko.facegen.classes;
+package org.petschko.facegen.classes;
 
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;

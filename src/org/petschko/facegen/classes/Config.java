@@ -1,4 +1,4 @@
-package in.eona.petschko.facegen.classes;
+package org.petschko.facegen.classes;
 
 /**
  * @autor: Petschko [peter-91@hotmail.de]
